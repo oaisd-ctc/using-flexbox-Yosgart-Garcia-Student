@@ -1,0 +1,33 @@
+PROPERTIES ---------- V
+
+flex: 2; 
+    https://www.w3schools.com/cssref/css3_pr_flex.php
+
+transition: 200ms;
+    I just guessed the property name correctly.
+
+flex-wrap: wrap;
+    https://www.w3schools.com/csS/css3_flexbox_container.asp#flex-direction
+
+flex-direction: row;
+    https://www.w3schools.com/csS/css3_flexbox_container.asp#flex-direction
+
+align-items: center;
+    https://www.w3schools.com/csS/css3_flexbox_container.asp#flex-direction
+
+justify-content: space-around;
+    https://www.w3schools.com/csS/css3_flexbox_container.asp#flex-direction
+
+display: flex;
+    https://www.w3schools.com/csS/css3_flexbox_container.asp#flex-direction
+
+PSEUDO CLASSES ---------- V
+
+:nth-child(odd)
+    https://www.w3schools.com/CSSref/sel_nth-child.php
+
+:last-child 
+    https://www.w3schools.com/css/css_pseudo_classes.asp
+
+:first-of-type 
+    https://www.w3schools.com/css/css_pseudo_classes.asp
